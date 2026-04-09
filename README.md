@@ -8,6 +8,7 @@
 > **Geo-BC** is a large-scale, preference-aligned benchmark for **fine-grained reasoning** and **spatiotemporal geo-world understanding** in remote sensing.  
 > It moves beyond conventional change captioning by evaluating whether models can perform **structured reasoning**, **rule-constrained semantic filtering** and **uncertainty-aware decision making**.
 
+
 ## 🔗 Links
 
 - **Dataset:** [Hugging Face - Kayn-kjq/Geo_BeyondCaptioning](https://huggingface.co/datasets/Kayn-kjq/Geo_BeyondCaptioning)
@@ -34,6 +35,8 @@ Geo-BC reframes bi-temporal change analysis from **free-form caption generation*
 ---
 
 ## 🔥 Highlights
+
+We have finished updating the core dataset construction scripts. The full dataset itself is too large to host directly here, so it is available on Hugging Face. We will continue to organize, expand, and refine the related dataset tools and will maintain the project over time. To facilitate dataset use by the research community, we have also compiled a summary of other RSCC datasets, including their key characteristics and original source links.
 
 - **Large-scale benchmark** with **109,224** spatiotemporal samples  
 - **327,672** structured reasoning trajectories  
