@@ -167,39 +167,8 @@ Beyond-Captioning/
 ├── README.md
 └── GeoBC-RLAIF-pipline-code/
     ├── 3-judges/
-    │   ├── judge1-gemini25pro-vlm-async.py
-    │   ├── judge2-deepseek-llm-async.py
-    │   └── judge3-gpt4o-rule-async.py
     ├── 5-Labeling/
-    │   ├── GPT_4o_1_change-async.py
-    │   ├── GPT_4o_1_nochange-async-easy.py
-    │   ├── GPT_4o_1_nochange-async-pro.py
-    │   ├── Gemini_2.5_change-async.py
-    │   ├── Gemini_2.5_nochange-async-easy.py
-    │   ├── Gemini_2.5_nochange-async-pro.py
-    │   ├── llava_change_val-gpu-windows.py
-    │   ├── llava_nochange_val-gpu-linux.py
-    │   ├── qvq_change-async.py
-    │   ├── qvq_nochange-async-easy.py
-    │   ├── qvq_nochange-asynic-pro.py
-    │   ├── qwen_change-async.py
-    │   ├── qwen_nochange-async-easy.py
-    │   └── qwen_nochange-async-pro.py
     ├── JSON-answer/
-    │   ├── change_regions_merged-train.json
-    │   ├── change_regions_merged-val.json
-    │   ├── change_regions_merged_test.json
-    │   ├── nochange_regions_merged-train.json
-    │   ├── nochange_regions_merged-val.json
-    │   └── nochange_regions_merged_test.json
     ├── Sum/
-    │   ├── build_gt.py
-    │   ├── combin.py
-    │   └── sort.py
     └── Tools/
-        ├── Judgment_Manual.md
-        ├── delete_failed.py
-        ├── delete_more_same_files(3).py
-        ├── land-use.md
-        ├── mainchange2_0.py
-        └── tif2color.py
+     
