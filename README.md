@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-Apache--2.0-green)](#)
 
 > **Geo-BC** is a large-scale, preference-aligned benchmark for **fine-grained reasoning** and **spatiotemporal geo-world understanding** in remote sensing.  
-> It moves beyond conventional change captioning by evaluating whether models can perform **structured reasoning**, **rule-constrained semantic filtering**, **pseudo-change rejection**, and **uncertainty-aware decision making**.
+> It moves beyond conventional change captioning by evaluating whether models can perform **structured reasoning**, **rule-constrained semantic filtering** and **uncertainty-aware decision making**.
 
 ## 🔗 Links
 
