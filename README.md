@@ -8,6 +8,10 @@
 > **Geo-BC** is a large-scale, preference-aligned benchmark for **fine-grained reasoning** and **spatiotemporal geo-world understanding** in remote sensing.  
 > It moves beyond conventional change captioning by evaluating whether models can perform **structured reasoning**, **rule-constrained semantic filtering** and **uncertainty-aware decision making**.
 
+## 🔥 News
+[![ACM MM 2026](https://img.shields.io/badge/ACM%20MM%202026-Accepted-brightgreen)](#)
+
+> 🎉 **This work has been accepted to ACM Multimedia 2026 (ACM MM 2026).**
 
 ## 🔗 Links
 
